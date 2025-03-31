@@ -50,6 +50,14 @@
         <mxCell id="sYGt-D0274AoIoNfroZq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sYGt-D0274AoIoNfroZq-44" target="sYGt-D0274AoIoNfroZq-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sYGt-D0274AoIoNfroZq-56" value="查看成绩" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYGt-D0274AoIoNfroZq-53">
+          <mxGeometry x="0.6721" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYGt-D0274AoIoNfroZq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sYGt-D0274AoIoNfroZq-45" target="sYGt-D0274AoIoNfroZq-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
