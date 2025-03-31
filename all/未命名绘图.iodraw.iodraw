@@ -7,8 +7,11 @@
         <mxCell id="sYGt-D0274AoIoNfroZq-3" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sYGt-D0274AoIoNfroZq-4" value="&#xa;&#xa;&#xa;&lt;p style=&quot;margin-left:42.0pt;mso-para-margin-left:2.0gd;&#xa;text-indent:-21.0pt;line-height:150%;mso-list:l0 level1 lfo1&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:Wingdings;&#xa;mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;l&lt;span style=&quot;font:7.0pt &amp;quot;Times New Roman&amp;quot;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体&quot;&gt;教师用户：发布选题、用户管理、评论管理。&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="200" width="430" height="70" as="geometry" />
+        <mxCell id="sYGt-D0274AoIoNfroZq-5" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYGt-D0274AoIoNfroZq-6" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="250" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
