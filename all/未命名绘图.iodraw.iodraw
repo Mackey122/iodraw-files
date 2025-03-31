@@ -42,6 +42,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sYGt-D0274AoIoNfroZq-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYGt-D0274AoIoNfroZq-26">
+          <mxGeometry x="0.3821" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sYGt-D0274AoIoNfroZq-5" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="220" width="30" height="60" as="geometry" />
         </mxCell>
@@ -80,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYGt-D0274AoIoNfroZq-28" value="评审成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sYGt-D0274AoIoNfroZq-28" value="选题任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
