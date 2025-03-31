@@ -28,7 +28,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYGt-D0274AoIoNfroZq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sYGt-D0274AoIoNfroZq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="sYGt-D0274AoIoNfroZq-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="490" as="targetPoint" />
             <mxPoint x="45" y="370" as="sourcePoint" />
@@ -36,15 +36,8 @@
               <mxPoint x="45" y="445" />
               <mxPoint x="46" y="445" />
               <mxPoint x="46" y="490" />
-              <mxPoint x="380" y="490" />
-              <mxPoint x="380" y="490" />
-              <mxPoint x="385" y="490" />
+              <mxPoint x="705" y="490" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sYGt-D0274AoIoNfroZq-79" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYGt-D0274AoIoNfroZq-72">
-          <mxGeometry x="0.9566" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sYGt-D0274AoIoNfroZq-42" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
