@@ -43,6 +43,9 @@
         <mxCell id="qz8e5sS2THaj1WUiGItK-55" value="学校公告管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="290" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qz8e5sS2THaj1WUiGItK-56" target="-f_x_LyUckJ0JRG7jQKN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qz8e5sS2THaj1WUiGItK-56" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="290" width="20" height="100" as="geometry" />
         </mxCell>
@@ -163,7 +166,7 @@
           <mxGeometry x="550" y="450" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-17" value="管理员管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="450" width="20" height="90" as="geometry" />
+          <mxGeometry x="580" y="460" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qz8e5sS2THaj1WUiGItK-54" target="-f_x_LyUckJ0JRG7jQKN-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
