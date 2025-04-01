@@ -121,10 +121,10 @@
         <mxCell id="-zPluWjbChO2_8F7VUrA-3" value="发布选题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="21" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-zPluWjbChO2_8F7VUrA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-zPluWjbChO2_8F7VUrA-3">
+        <mxCell id="-zPluWjbChO2_8F7VUrA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="481" y="420" as="sourcePoint" />
-            <mxPoint x="480" y="410" as="targetPoint" />
+            <mxPoint x="479" y="420" as="sourcePoint" />
+            <mxPoint x="499.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
