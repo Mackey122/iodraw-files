@@ -320,12 +320,12 @@
         <mxCell id="QJ1-lRC3IpW1VBUe4g_5-60" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QJ1-lRC3IpW1VBUe4g_5-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.453;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJ1-lRC3IpW1VBUe4g_5-56">
+        <mxCell id="QJ1-lRC3IpW1VBUe4g_5-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJ1-lRC3IpW1VBUe4g_5-56" target="QJ1-lRC3IpW1VBUe4g_5-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="530" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="480" />
+              <mxPoint x="160" y="480" />
               <mxPoint x="160" y="470" />
             </Array>
           </mxGeometry>
@@ -334,9 +334,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="520" as="sourcePoint" />
             <mxPoint x="140" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="480" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QJ1-lRC3IpW1VBUe4g_5-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJ1-lRC3IpW1VBUe4g_5-58">
