@@ -159,9 +159,15 @@
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-17" value="管理员管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="450" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-f_x_LyUckJ0JRG7jQKN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qz8e5sS2THaj1WUiGItK-54">
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qz8e5sS2THaj1WUiGItK-54" target="-f_x_LyUckJ0JRG7jQKN-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="460" as="sourcePoint" />
+            <mxPoint x="730" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-f_x_LyUckJ0JRG7jQKN-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="400" as="sourcePoint" />
             <mxPoint x="730" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
