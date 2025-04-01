@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tpjA3tAw6KqUwcAXZmg9-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="30" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tpjA3tAw6KqUwcAXZmg9-2" value="登录注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
