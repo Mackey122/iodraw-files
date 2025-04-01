@@ -14,7 +14,10 @@
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbLqHaOSf5cHkl-rNZdb-5" value="账号密码&lt;div&gt;是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="100" height="70" as="geometry" />
+          <mxGeometry x="350" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbLqHaOSf5cHkl-rNZdb-7" value="选择身份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="290" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
