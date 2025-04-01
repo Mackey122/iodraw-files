@@ -54,7 +54,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Uc05kjtofGXXEp1IkQ2-15" value="选择需要修改的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-15" value="选择需要删除的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-2" target="2Uc05kjtofGXXEp1IkQ2-3">
