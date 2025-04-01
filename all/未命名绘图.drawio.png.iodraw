@@ -107,9 +107,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qz8e5sS2THaj1WUiGItK-34" value="登陆注册模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="299" y="300" width="20" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
