@@ -28,6 +28,9 @@
         <mxCell id="qz8e5sS2THaj1WUiGItK-53" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="300" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qz8e5sS2THaj1WUiGItK-54" target="-f_x_LyUckJ0JRG7jQKN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qz8e5sS2THaj1WUiGItK-54" value="毕设选题管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="300" width="20" height="100" as="geometry" />
         </mxCell>
