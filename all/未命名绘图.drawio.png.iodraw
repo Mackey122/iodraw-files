@@ -120,8 +120,11 @@
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-4" value="学生管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="440" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-f_x_LyUckJ0JRG7jQKN-5" value="管理员管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-5" value="班级管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="440" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-f_x_LyUckJ0JRG7jQKN-6" value="管理员管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="20" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
