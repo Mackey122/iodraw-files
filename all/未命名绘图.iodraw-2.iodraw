@@ -7,11 +7,25 @@
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-3" value="删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-4" target="2Uc05kjtofGXXEp1IkQ2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-4" value="更新数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Uc05kjtofGXXEp1IkQ2-9">
+          <mxGeometry x="-0.3212" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,7 +36,7 @@
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-15" value="选择需要删除的记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Uc05kjtofGXXEp1IkQ2-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-15">
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Uc05kjtofGXXEp1IkQ2-15" target="2Uc05kjtofGXXEp1IkQ2-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="400" y="240" as="targetPoint" />
