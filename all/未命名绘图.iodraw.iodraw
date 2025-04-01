@@ -31,7 +31,13 @@
         <mxCell id="tpjA3tAw6KqUwcAXZmg9-9" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpjA3tAw6KqUwcAXZmg9-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tpjA3tAw6KqUwcAXZmg9-9">
+        <mxCell id="tpjA3tAw6KqUwcAXZmg9-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tpjA3tAw6KqUwcAXZmg9-1" target="tpjA3tAw6KqUwcAXZmg9-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpjA3tAw6KqUwcAXZmg9-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tpjA3tAw6KqUwcAXZmg9-1" target="tpjA3tAw6KqUwcAXZmg9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="380" as="sourcePoint" />
             <mxPoint x="400" y="330" as="targetPoint" />
