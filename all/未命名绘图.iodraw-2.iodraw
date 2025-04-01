@@ -13,8 +13,8 @@
         <mxCell id="2Uc05kjtofGXXEp1IkQ2-3" value="是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Uc05kjtofGXXEp1IkQ2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="2Uc05kjtofGXXEp1IkQ2-4" value="写入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
