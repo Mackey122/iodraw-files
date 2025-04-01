@@ -113,6 +113,9 @@
         <mxCell id="5ZLhfKn2Mf8MA24VlZcb-1" value="课题任务完成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="20" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="5ZLhfKn2Mf8MA24VlZcb-3" value="成绩查看" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="20" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
