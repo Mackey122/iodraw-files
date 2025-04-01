@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-1" value="管理员管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="20" height="90" as="geometry" />
+          <mxGeometry x="460" y="430" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-f_x_LyUckJ0JRG7jQKN-3" value="教师管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="20" height="90" as="geometry" />
