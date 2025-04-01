@@ -20,7 +20,7 @@
           <mxGeometry x="360" y="340" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QJ1-lRC3IpW1VBUe4g_5-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QJ1-lRC3IpW1VBUe4g_5-7" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="80" height="40" as="geometry" />
@@ -325,8 +325,8 @@
             <mxPoint x="300" y="530" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="140" y="480" />
               <mxPoint x="160" y="480" />
-              <mxPoint x="160" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -334,7 +334,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="520" as="sourcePoint" />
             <mxPoint x="140" y="480" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="170" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QJ1-lRC3IpW1VBUe4g_5-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJ1-lRC3IpW1VBUe4g_5-58">
