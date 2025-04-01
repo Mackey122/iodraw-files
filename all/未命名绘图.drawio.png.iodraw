@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qz8e5sS2THaj1WUiGItK-5" value="管理员子系统模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qz8e5sS2THaj1WUiGItK-50" value="登陆注册模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="300" width="20" height="100" as="geometry" />
@@ -37,6 +37,7 @@
             <mxPoint x="650" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="290" />
+              <mxPoint x="650" y="290" />
               <mxPoint x="650" y="280" />
             </Array>
           </mxGeometry>
