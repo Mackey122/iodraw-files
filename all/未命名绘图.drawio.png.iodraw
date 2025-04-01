@@ -110,8 +110,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-zPluWjbChO2_8F7VUrA-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="399" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="-zPluWjbChO2_8F7VUrA-1" value="发布选题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
