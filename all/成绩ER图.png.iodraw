@@ -58,8 +58,8 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQiKCjv0rI-UEbqFAz0K-1" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="80" height="50" as="geometry" />
+        <mxCell id="PQiKCjv0rI-UEbqFAz0K-1" value="审核结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="275" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PQiKCjv0rI-UEbqFAz0K-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQiKCjv0rI-UEbqFAz0K-1" target="76U9SLwV89LKgREWr9F4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
