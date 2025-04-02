@@ -507,6 +507,12 @@
         <mxCell id="cRozYdkQLBMgSJ353xgj-140" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437" y="574.5" width="80" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="cRozYdkQLBMgSJ353xgj-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BsiFyrdHSbYeHOHerTSH-1" target="cRozYdkQLBMgSJ353xgj-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="450" as="sourcePoint" />
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
